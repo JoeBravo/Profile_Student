@@ -5,6 +5,7 @@
 }
 body {
     background-color: rgb(39, 46, 54);
+    font-family: fantasy;
     display: flex;
     justify-content: center;
     align-items: center;
