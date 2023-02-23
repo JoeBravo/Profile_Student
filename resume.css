@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color: rgb(151, 157, 164);
+    background-image: url("logo.jfif");
     font-family: fantasy;
     display: flex;
     justify-content: center;
